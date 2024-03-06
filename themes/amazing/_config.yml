@@ -146,7 +146,7 @@ comment:
     type: gitalk
     language: zh-CN #zh-CN #Localization language key, en, zh-CN and zh-TW are currently available.
     owner: cjhcjh6         # (required) GitHub user name
-    repo: cjhcjh.top-comments          # (required) GitHub repository name
+    repo: cjh_comments          # (required) GitHub repository name
     client_id: 29b361428ea6fb15807d     # (required) OAuth application client id
     client_secret: 8b784dfc7f3204889a4bc6f9e0fc88a765103d9a # (required) OAuth application client secret
     admin: ['cjhcjh6']
