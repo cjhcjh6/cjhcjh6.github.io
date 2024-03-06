@@ -267,10 +267,10 @@ widgets:
                 url: 'https://github.com/cjhcjh6'
             Weibo:
                 icon: fab fa-weibo
-                url: 'https://weibo.com/removeif'
+                url: 'https://weibo.com'
             Email:
                 icon: fa fa-envelope
-                url: 'mailto:removeif@qq.com'
+                url: 'mailto:cjhcjh6@qq.com'
             Next:
                 icon: fab fa-dribbble
                 url: 'https://cjhcjh6.github.io/'
