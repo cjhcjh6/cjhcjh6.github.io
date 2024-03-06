@@ -147,8 +147,8 @@ comment:
     language: zh-CN #zh-CN #Localization language key, en, zh-CN and zh-TW are currently available.
     owner: cjhcjh6         # (required) GitHub user name
     repo: cjhcjh.top-comments          # (required) GitHub repository name
-    client_id: 21af7a0faa42d4a17430     # (required) OAuth application client id
-    client_secret: afaab3c21d18c95ef21dc492acdeae41ad280dbe # (required) OAuth application client secret
+    client_id: 29b361428ea6fb15807d     # (required) OAuth application client id
+    client_secret: 8b784dfc7f3204889a4bc6f9e0fc88a765103d9a # (required) OAuth application client secret
     admin: ['cjhcjh6']
     create_issue_manually: true
     distraction_free_mode: false
