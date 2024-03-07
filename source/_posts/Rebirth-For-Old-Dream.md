@@ -2,7 +2,7 @@
 ---
 title: 用服务器宣传练练手
 date: 2024-03-07 09:54:22
-tags: server
+tags: Rebirth-For-Old-Dream_server
 ---
 ## 旧梦复生
 先拿这个服务器宣传试试吧
