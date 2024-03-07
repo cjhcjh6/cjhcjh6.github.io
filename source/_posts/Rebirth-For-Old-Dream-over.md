@@ -8,4 +8,4 @@ tags: Rebirth-For-Old-Dream_server
 服务器一周目将于2024-3-14日结束
 这时我们会将存档放出
 非常抱歉
-![](https://i.postimg.cc/j5pMj98w/1709811237411.jpg)
+![](https://i.postimg.cc/nLFdCgvM/25380b2e0deb432889db982eaa263963.png)
