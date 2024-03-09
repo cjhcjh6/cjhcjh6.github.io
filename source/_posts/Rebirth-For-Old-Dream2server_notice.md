@@ -17,6 +17,7 @@ Banner是Bukkit和Spigot api和Fabric混合的端
 ### YSM 是！史蒂夫模型
 ### 起源
 ### MCA重制
+### Ad Astra
 ## 以及辅助玩法
 ### 通量网络
 ### 科技复兴
