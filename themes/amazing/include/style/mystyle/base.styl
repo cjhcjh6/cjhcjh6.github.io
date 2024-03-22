@@ -4,12 +4,25 @@ $family-sans-serif1 ?= 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif
 body, button, input, select, textarea {
   font-family: $family-sans-serif1
 }
-
 body {
-  //reference https://www.zpf23.cn/
-  background: url(/img/background.png);
+  overflow: hidden;
 }
 
+.video-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  object-fit: cover;
+}
+
+@media only screen and (max-width: 767px) {
+  .video-background {
+    object-position: right center;
+  }
+}
 // 自定义图片样式
 .img-x {
   position: relative;

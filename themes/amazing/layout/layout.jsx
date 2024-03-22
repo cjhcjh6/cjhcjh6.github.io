@@ -130,7 +130,7 @@ module.exports = class extends Component {
         let isPageOrPost = page.layout == 'page' || page.layout == 'post';
         return <html lang={language ? language.substr(0, 2) : ''}>
             <Head site={site} config={config} helper={helper} page={page} />
-            <body className={`is-${columnCount}-column has-navbar-fixed-top`}>
+            <body className={`is-${columnCount}-column has-navbar-fixed-top`} style={{position: 'relative'}}>
                 <Navbar config={config} helper={helper} page={page} />
                 <script type="text/javascript" src={my_cdn(url_for('/js/theme-setting.js'))}></script>
                 <section class="section">
@@ -146,6 +146,24 @@ module.exports = class extends Component {
                             })} dangerouslySetInnerHTML={{__html: indexTopData + body}}></div>
                             <Widgets site={site} config={config} helper={helper} page={page} position={'left'}/>
                             {isPageOrPost ? null : <Widgets site={site} config={config} helper={helper} page={page} position={'right'}/>}
+<video
+  className="video-background"
+  autoPlay
+  loop
+  muted
+  playsInline
+  style={{
+    position: 'fixed',
+    top: 0,
+    left: 0,
+    width: '100%',
+    height: '100%',
+    zIndex: '-1',
+    objectFit: 'cover',
+  }}
+>
+  <source src={url_for('videos/video.mp4')} type="video/mp4" />
+</video>
                         </div>
                     </div>
                 </section>
