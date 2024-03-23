@@ -2,8 +2,8 @@
 version: 5.0.1
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
-# Path or URL to the website's logo
-logo: https://img2.imgtp.com/2024/03/06/9RXu98P4.png
+# Path or URL to the website's logo https://img2.imgtp.com/2024/03/06/9RXu98P4.png
+logo: https://i.postimg.cc/HLPcCxGQ/1711175573-655519.png
 #/img/logo.svg
 # Page metadata configurations
 head:
