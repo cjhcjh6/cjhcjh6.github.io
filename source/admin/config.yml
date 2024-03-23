@@ -1,7 +1,7 @@
 # https://decapcms.org/docs/configuration-options/
 backend:
-  name: bitbucket
-  repo: cjhcjh6.github.io/blob
+  name: github
+  repo: cjhcjh6/cjhcjh6.github.io
   branch: edit
   auth_type: implicit
   app_id: hz4nbb2DRT8WqPtpZk
