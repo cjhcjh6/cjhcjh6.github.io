@@ -4,7 +4,7 @@ backend:
   repo: cjhcjh6/cjhcjh6.github.io
   branch: edit
   auth_type: implicit
-  app_id: hz4nbb2DRT8WqPtpZk
+  app_id: dbac9c49973a2a4d39bf5c026d8132c3c6065321
 media_folder: "source/gallery/2024"
 public_folder: "/gallery/2024"
 site_url: "https://cjhcjh6.top"
