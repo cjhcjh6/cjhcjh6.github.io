@@ -1,7 +1,7 @@
 # https://decapcms.org/docs/configuration-options/
 backend:
   name: bitbucket
-  repo: iMaeGoo/blog
+  repo: cjhcjh6.github.io/blob
   branch: edit
   auth_type: implicit
   app_id: hz4nbb2DRT8WqPtpZk
